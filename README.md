@@ -58,10 +58,10 @@ I'm currently pursuing a Master of Science in Information Systems at Northeaster
 - Chairperson, Managing Secretary – Indian Society for Technical Education (Aug 2020 – May 2022)
 
 Let's connect!
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.roshandadlani.com-blue)](https://www.roshandadlani.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Deepak%20Dadlani-blue)](https://www.linkedin.com/in/roshan-dadlani/)
 [![GitHub](https://img.shields.io/badge/GitHub-ROSDAD-green)](https://github.com/ROSDAD)
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.roshandadlani.com-lightgrey)](https://www.roshandadlani.com/)
+[![Youtube](https://img.shields.io/badge/Youtube-@roshandadlani-red)](https://www.youtube.com/@roshandadlani)
 
 
 
