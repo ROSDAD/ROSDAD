@@ -1,4 +1,4 @@
-![Banner](your-banner-image-name.png)
+![Banner](github_profile.png)
 
 # Hi there, I'm Roshan Deepak Dadlani! 👋
 
