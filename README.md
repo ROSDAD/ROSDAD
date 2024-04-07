@@ -62,7 +62,7 @@ Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Dadlani-blue)](https://www.linkedin.com/in/roshan-dadlani/)
 [![GitHub](https://img.shields.io/badge/GitHub-ROSDAD-green)](https://github.com/ROSDAD)
 [![Youtube](https://img.shields.io/badge/Youtube-@roshandadlani-red)](https://www.youtube.com/@roshandadlani)
-
+[![Instagram](https://img.shields.io/badge/Youtube-@roshan_dadlani-pink)](https://www.instagram.com/roshan_dadlani)
 
 
 <!--
