@@ -1,6 +1,6 @@
-![Banner](github_profile.png)
+![Banner](github_banner.png)
 
-# Hi there, I'm Roshan Deepak Dadlani! 👋
+# Hi there, I'm Roshan Dadlani! 👋
 
 I'm currently pursuing a Master of Science in Information Systems at Northeastern University, specializing in Data Science, Web Design, and Application Engineering. Passionate about developing innovative solutions to complex problems, I have a strong foundation in full-stack development, cloud computing, and data management.
 
