@@ -1,12 +1,38 @@
+![Banner](your-banner-image-name.png)
+
 # Hi there, I'm Roshan Deepak Dadlani! 👋
 
 I'm currently pursuing a Master of Science in Information Systems at Northeastern University, specializing in Data Science, Web Design, and Application Engineering. Passionate about developing innovative solutions to complex problems, I have a strong foundation in full-stack development, cloud computing, and data management.
 
 ## Skills
-- **Programming Languages**: Python, JavaScript, Java, C/C++, HTML, CSS, SQL, JQuery, PHP, TypeScript, Go-Lang, GraphQL
-- **Frameworks**: Bootstrap, Laravel, Django, Flask, MVC, Spring Boot, Express.js, AngularJS, React.js, Node.js
-- **Data Management**: MySQL, Distributed File System, Hadoop File System, PostgreSQL, NoSQL, MongoDB
-- **DevOps Tools**: CI/CD, Ansible, Kubernetes, Docker, Jenkins, Git, Azure, AWS, Terraform
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Experience
 ### Fidelity Investments, Boston, MA
@@ -35,6 +61,7 @@ Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Deepak%20Dadlani-blue)](https://www.linkedin.com/in/roshan-dadlani/)
 [![GitHub](https://img.shields.io/badge/GitHub-ROSDAD-green)](https://github.com/ROSDAD)
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.roshandadlani.com-lightgrey)](https://www.roshandadlani.com/)
+
 
 
 <!--
