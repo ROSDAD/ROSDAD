@@ -1,6 +1,7 @@
 ![Banner](github_banner.png)
 
 # Hi there, I'm Roshan Dadlani! 👋
+![visitors](https://komarev.com/ghpvc/?username=yourGitHubUsername&color=blue)
 
 I'm currently pursuing a Master of Science in Information Systems at Northeastern University, specializing in Data Science, Web Design, and Application Engineering. Passionate about developing innovative solutions to complex problems, I have a strong foundation in full-stack development, cloud computing, and data management.
 
