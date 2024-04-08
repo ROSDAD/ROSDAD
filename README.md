@@ -113,7 +113,7 @@ I am a Full Stack Developer and Software Engineer currently pursuing a Master of
   <a href="https://www.roshandadlani.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-www.roshandadlani.com-darkblue"></a>
   <a href="https://www.linkedin.com/in/roshan-dadlani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roshan%20Dadlani-blue"></a>
   <a href="https://github.com/ROSDAD" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ROSDAD-green"></a>
-  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=B2TnCsYAAAAJ" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google Scholar@Roshan Dadlani-teal"></a>
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=B2TnCsYAAAAJ" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google Scholar-@Roshan Dadlani-teal"></a>
   <a href="https://www.youtube.com/@roshandadlani" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@roshandadlani-red"></a>
   <a href="https://www.instagram.com/roshan_dadlani" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@roshan_dadlani-pink"></a>
 </p>
