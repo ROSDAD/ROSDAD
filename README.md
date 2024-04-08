@@ -95,13 +95,15 @@ I am a Full Stack Developer and Software Engineer currently pursuing a Master of
 
 ### eWebsuite Technologies Pvt. Ltd., Mumbai, India
 - Full Stack Web Developer Intern (Sep 2020 – Nov 2020)
+- 
+<h2 align="center">🛠 Projects 🛠</h2>
 
-## Projects
 - **[PharmaCutieCal – React.js, JavaScript, Flask, Python, MongoDB](https://github.com/TFC-Civic-Tech-Hackathon/drug-effects-predictor)** - TFC Hackathon Winner.
 - **[QuickShare & SocketShare – Go-Lang, JavaScript, WebSocket, WebRTC](https://youtu.be/BTKFaxpgp68)** - Real-time file-sharing applications.
 - **[Deppy: Your Virtual Companion – Tensorflow, Web Scraping, Python, Django](https://github.com/ROSDAD/Dr.-Deppy)** - AI chatbot web app for depression support.
 
-## Certifications
+<h2 align="center">📝 Certifications 📝</h2>
+
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/c3f1f726-f007-4661-89b3-ac9365863952/public_url)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/129ab566-be35-42c9-bad8-30c95e55e955/public_url)
 
