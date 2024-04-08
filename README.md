@@ -5,7 +5,7 @@
 ![Banner](github_banner.png)
 
 
-# Hi there, I'm Roshan Dadlani! 👋 
+<h3>👇 A Little About Me! 👇</h3>
 
 I am a Full Stack Developer and Software Engineer currently pursuing a Master of Science in Information Systems at Northeastern University. With a focus on Web Design, DSA, OOP, Big Data, Data Science and Application Engineering, I am deeply passionate about crafting innovative solutions for complex challenges. My foundation is solidly built on Full-Stack Development, Cloud Computing, and Data Management, enabling me to deliver robust and scalable software solutions.
 
