@@ -4,6 +4,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ROSDAD&color=blue">
 </p>
+
 # Hi there, I'm Roshan Dadlani! 👋 
 
 I'm currently pursuing a Master of Science in Information Systems at Northeastern University, specializing in Data Science, Web Design, and Application Engineering. Passionate about developing innovative solutions to complex problems, I have a strong foundation in full-stack development, cloud computing, and data management.
