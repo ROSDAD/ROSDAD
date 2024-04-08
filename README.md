@@ -18,64 +18,64 @@ I'm currently pursuing a Master of Science in Information Systems at Northeaster
 <tr>
 <td>
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) Python
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) Java
-- ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) C/C++
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) HTML
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) CSS
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white) SQL
-- ![JQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) JQuery
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) PHP
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) TypeScript
-- ![Go-Lang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) Go-Lang
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) GraphQL
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![JQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Go-Lang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 </td>
 <td>
 
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) Bootstrap
-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) Laravel
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) Django
-- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) Flask
-- ![MVC](https://img.shields.io/badge/-MVC-000000?style=flat) MVC
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) Spring Boot
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) Express.js
-- ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularjs&logoColor=white) AngularJS
-- ![React.js](https://img.shields.io/badge/-React.js-20232A?style=flat&logo=react&logoColor=61DAFB) React.js
-- ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white) Node.js
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![MVC](https://img.shields.io/badge/-MVC-000000?style=flat)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
 
 </td>
 <td>
 
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) PostgreSQL
-- ![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat&logo=mongodb&logoColor=white) NoSQL
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) MongoDB
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 </td>
 <td>
 
-- ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=flat) CI/CD
-- ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) Ansible
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) Kubernetes
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
-- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) Jenkins
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git
-- ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) Azure
-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) AWS
-- ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) Terraform
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=flat)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
 </td>
 <td>
 
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) GitHub
-- ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-000000?style=flat) Web Scraping
-- ![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-000000?style=flat) Web Sockets
-- ![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat) REST API
-- ![UiPath](https://img.shields.io/badge/-UiPath-FF6C37?style=flat&logo=uipath&logoColor=white) UiPath
-- ![SonarQube](https://img.shields.io/badge/-SonarQube-CB3032?style=flat&logo=sonarqube&logoColor=white) SonarQube
-- ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white) WebRTC
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-000000?style=flat)
+![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-000000?style=flat)
+![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat)
+![UiPath](https://img.shields.io/badge/-UiPath-FF6C37?style=flat&logo=uipath&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-CB3032?style=flat&logo=sonarqube&logoColor=white)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 
 </td>
 </tr>
