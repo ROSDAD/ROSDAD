@@ -108,6 +108,12 @@ I am a Full Stack Developer and Software Engineer currently pursuing a Master of
 - Chairperson, Managing Secretary – Indian Society for Technical Education (Aug 2020 – May 2022)
 
 ## Let's connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/roshan-dadlani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Roshan%20Deepak%20Dadlani-blue" alt="LinkedIn"></a>
+  <a href="https://github.com/ROSDAD" target="_blank"><img src="https://img.shields.io/badge/GitHub-ROSDAD-green" alt="GitHub"></a>
+  <a href="https://www.roshandadlani.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-www.roshandadlani.com-lightgrey" alt="Portfolio"></a>
+</p>
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.roshandadlani.com-darkblue)](https://www.roshandadlani.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Dadlani-blue)](https://www.linkedin.com/in/roshan-dadlani/)
 [![GitHub](https://img.shields.io/badge/GitHub-ROSDAD-green)](https://github.com/ROSDAD)
