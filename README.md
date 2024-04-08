@@ -110,15 +110,14 @@ I am a Full Stack Developer and Software Engineer currently pursuing a Master of
 ## Let's connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roshan-dadlani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Roshan%20Deepak%20Dadlani-blue" alt="LinkedIn"></a>
-  <a href="https://github.com/ROSDAD" target="_blank"><img src="https://img.shields.io/badge/GitHub-ROSDAD-green" alt="GitHub"></a>
-  <a href="https://www.roshandadlani.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-www.roshandadlani.com-lightgrey" alt="Portfolio"></a>
+  <a href="https://www.roshandadlani.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-www.roshandadlani.com-darkblue"></a>
+  <a href="https://www.linkedin.com/in/roshan-dadlani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roshan%20Dadlani-blue"></a>
+  <a href="https://github.com/ROSDAD" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ROSDAD-green"></a>
+  <a href="https://www.youtube.com/@roshandadlani" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@roshandadlani-red"></a>
+  <a href="https://www.instagram.com/roshan_dadlani" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@roshan_dadlani-pink"></a>
 </p>
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.roshandadlani.com-darkblue)](https://www.roshandadlani.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Dadlani-blue)](https://www.linkedin.com/in/roshan-dadlani/)
-[![GitHub](https://img.shields.io/badge/GitHub-ROSDAD-green)](https://github.com/ROSDAD)
-[![Youtube](https://img.shields.io/badge/Youtube-@roshandadlani-red)](https://www.youtube.com/@roshandadlani)
-[![Instagram](https://img.shields.io/badge/Instagram-@roshan_dadlani-pink)](https://www.instagram.com/roshan_dadlani)
+
+
 
 
 <!--
