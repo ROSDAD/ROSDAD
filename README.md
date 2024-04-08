@@ -1,6 +1,8 @@
 ![Banner](github_banner.png)
 
-# Hi there, I'm Roshan Dadlani! 👋 ![visitors](https://komarev.com/ghpvc/?username=yourGitHubUsername&color=blue)
+# Hi there, I'm Roshan Dadlani! 👋 <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ROSDAD&color=blue">
+</p>
 
 
 I'm currently pursuing a Master of Science in Information Systems at Northeastern University, specializing in Data Science, Web Design, and Application Engineering. Passionate about developing innovative solutions to complex problems, I have a strong foundation in full-stack development, cloud computing, and data management.
@@ -108,7 +110,7 @@ Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Dadlani-blue)](https://www.linkedin.com/in/roshan-dadlani/)
 [![GitHub](https://img.shields.io/badge/GitHub-ROSDAD-green)](https://github.com/ROSDAD)
 [![Youtube](https://img.shields.io/badge/Youtube-@roshandadlani-red)](https://www.youtube.com/@roshandadlani)
-[![Instagram](https://img.shields.io/badge/Youtube-@roshan_dadlani-pink)](https://www.instagram.com/roshan_dadlani)
+[![Instagram](https://img.shields.io/badge/Instagram-@roshan_dadlani-pink)](https://www.instagram.com/roshan_dadlani)
 
 
 <!--
