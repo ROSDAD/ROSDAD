@@ -107,7 +107,8 @@ I am a Full Stack Developer and Software Engineer currently pursuing a Master of
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/c3f1f726-f007-4661-89b3-ac9365863952/public_url)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/129ab566-be35-42c9-bad8-30c95e55e955/public_url)
 
-## Activities and Awards
+<h2 align="center">🏆 Activities and Awards 🏆</h2>
+
 - Chairperson, Managing Secretary – Indian Society for Technical Education (Aug 2020 – May 2022)
 
 <h2 align="center">🤝 Let's connect! 🤝</h2>
