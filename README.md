@@ -9,8 +9,8 @@
 
 I am a Full Stack Developer and Software Engineer currently pursuing a Master of Science in Information Systems at Northeastern University. With a focus on Web Design, DSA, OOP, Big Data, Data Science and Application Engineering, I am deeply passionate about crafting innovative solutions for complex challenges. My foundation is solidly built on Full-Stack Development, Cloud Computing, and Data Management, enabling me to deliver robust and scalable software solutions.
 
-## Skills
-
+<h2 align="center">🧠 Skills 🧠</h2>
+ 
 <table>
 <tr>
 <th>Programming Languages</th>
@@ -85,7 +85,8 @@ I am a Full Stack Developer and Software Engineer currently pursuing a Master of
 </tr>
 </table>
 
-## Experience
+<h2 align="center">👨‍💻 Experience 👨‍💻</h2>
+
 ### Fidelity Investments, Boston, MA
 - Full Stack Engineer, Co-op (Jul 2023 – Dec 2023)
 
@@ -107,7 +108,7 @@ I am a Full Stack Developer and Software Engineer currently pursuing a Master of
 ## Activities and Awards
 - Chairperson, Managing Secretary – Indian Society for Technical Education (Aug 2020 – May 2022)
 
-## Let's connect!
+<h2 align="center">🤝 Let's connect! 🤝</h2>
 
 <p align="center">
   <a href="https://www.roshandadlani.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-www.roshandadlani.com-darkblue"></a>
