@@ -107,7 +107,7 @@ I am a Full Stack Developer and Software Engineer currently pursuing a Master of
 ## Activities and Awards
 - Chairperson, Managing Secretary – Indian Society for Technical Education (Aug 2020 – May 2022)
 
-Let's connect!
+## Let's connect!
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.roshandadlani.com-darkblue)](https://www.roshandadlani.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Dadlani-blue)](https://www.linkedin.com/in/roshan-dadlani/)
 [![GitHub](https://img.shields.io/badge/GitHub-ROSDAD-green)](https://github.com/ROSDAD)
