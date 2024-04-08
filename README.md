@@ -1,6 +1,7 @@
 ![Banner](github_banner.png)
 
-# Hi there, I'm Roshan Dadlani! 👋 <p align="right">
+# Hi there, I'm Roshan Dadlani! 👋 
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=ROSDAD&color=blue">
 </p>
 
