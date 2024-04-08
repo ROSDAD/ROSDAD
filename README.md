@@ -95,7 +95,7 @@ I am a Full Stack Developer and Software Engineer currently pursuing a Master of
 
 ### eWebsuite Technologies Pvt. Ltd., Mumbai, India
 - Full Stack Web Developer Intern (Sep 2020 – Nov 2020)
-- 
+
 <h2 align="center">🛠 Projects 🛠</h2>
 
 - **[PharmaCutieCal – React.js, JavaScript, Flask, Python, MongoDB](https://github.com/TFC-Civic-Tech-Hackathon/drug-effects-predictor)** - TFC Hackathon Winner.
